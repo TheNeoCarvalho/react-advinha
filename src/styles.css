@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(22, 22, 22);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn {
+  width: 100px;
+}
+
+.myButton {
+  width: 150px;
+}
+
+.ma-10 {
+  margin: 0 10px;
+}
